@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814527223605",
+    "project_id": "consultation-planner",
+    "storage_bucket": "consultation-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814527223605:android:1a53282ba3d53918ae5e7c",
+        "android_client_info": {
+          "package_name": "com.example.consultation_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814527223605-vnsa0nueo35104j9dqhuc8lbj1mdgthf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHfOwqc7uaA9CWBIdYzW_FnNUCs2gSU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814527223605-vnsa0nueo35104j9dqhuc8lbj1mdgthf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
